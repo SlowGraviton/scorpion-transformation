@@ -1,4 +1,4 @@
-'''python
+```python
 mega = {
         'digital' : tuple(x for x in range(14)),
         'analog' : tuple(x for x in range(6)),
@@ -6,4 +6,4 @@ mega = {
         'use_ports' : True,
         'disabled' : (0, 1) # Rx, Tx, Crystal
         }
-'''
+```
